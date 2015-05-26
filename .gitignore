@@ -1,0 +1,3 @@
+#ignore.sublime settings
+*.sublime-project
+*.sublime-workspace
